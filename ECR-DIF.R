@@ -1,2 +1,2 @@
-# test
-1 + 1
+getwd()
+data <- read.csv("data.csv")
